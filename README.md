@@ -1,6 +1,6 @@
-# RunCode
+# Portfolio
 
-This is base repository for RunCode workspace.
+This is the base one for the new portfolio with updated technologies that are about to launch at the end of the month
 
 You can clone any git repositories or use your own by selecting one at the time of creating workspace.
 
